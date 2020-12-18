@@ -6,7 +6,6 @@ while True:
     print("Player two")
     choice2 = input("Choose between rock(r), paper(p) and scissors(s): ")
         
-        
     print(check(choice1, choice2))
         
     print()
